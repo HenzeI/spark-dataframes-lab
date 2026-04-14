@@ -1,0 +1,44 @@
+id_cliente;nombre;ciudad;segmento
+1;Ana; Sevilla ;Estandar
+2;Luis;Bilbao;Premium
+3;Marta; Alicante ;Estandar
+4;Pablo; Madrid ;Premium
+5;Lucia;Bilbao;Premium
+6;Carlos; Alicante ;Estandar
+7;Elena;Bilbao;Estandar
+8;Javier;Madrid;Premium
+9;Sara;Murcia;Premium
+10;David;Bilbao;Estandar
+11;Raquel; Sevilla ;Premium
+12;Miguel;Zaragoza;Estandar
+13;Irene;Madrid;Premium
+14;Sergio; Murcia ;Estandar
+15;Paula;Granada;Estandar
+16;Diego; Granada ;Premium
+17;Alba;Madrid;Estandar
+18;Jorge;Sevilla;Premium
+19;Clara;Murcia;Estandar
+20;Adrian;Valencia;Premium
+21;Noelia;Malaga;Premium
+22;Ruben;Granada;Premium
+23;Celia;Valencia;Estandar
+24;Hector;Alicante;Estandar
+25;Nuria;Madrid;Premium
+26;Ivan;Zaragoza;Premium
+27;Laura;Bilbao;Estandar
+28;Mario;Bilbao;Estandar
+29;Alicia; Valladolid ;Premium
+30;Victor;Bilbao;Estandar
+31;Beatriz;Granada;Estandar
+32;Andres;Zaragoza;Premium
+33;Patricia;Alicante;Premium
+34;Fernando; Sevilla ;Premium
+35;Silvia;Murcia;Estandar
+36;Gema;Murcia;Estandar
+37;Oscar;Alicante;Premium
+38;Rocio;Sevilla;Estandar
+39;Eva; Zaragoza ;Estandar
+40;Tomas;Valencia;Estandar
+20;Adrian;Valencia;Premium
+17;Alba;Madrid;Estandar
+16;Diego; Granada ;Premium
